@@ -1,8 +1,7 @@
-React Weather App
+React Weather Search Engine
 
-This weather app was written using React, my favorite framework! I had a lot of fun with this project, which took me about two sessions of 3 hours to complete. Feel free to make suggestions and use this code for your own projects.
-[Click me, I'm a weather app!](https://react-weather-app-eugeniabonocore.netlify.app/)
-Make sure to check out my other weather app built with Vanilla JS.
+This weather engine was written using React, my favorite framework! I had a lot of fun with this exercise, which took me about an hour to complete. Feel free to make suggestions and use this code for your own projects.
+[Click here to check the weather](https://weather-search-engine-react.netlify.app/)
 
 Thanks for stopping by,
 Eugenia
